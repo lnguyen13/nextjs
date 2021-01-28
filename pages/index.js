@@ -11,9 +11,10 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          YES!
+          YES! 🚀
         </h1>
     <p>You like the stock. Why wouldn't you?</p>
+    <a href="https://shouldibuygme.com" class="btn btn-info" role="button">Next Step</a>
       </main>
     </div>
   )
