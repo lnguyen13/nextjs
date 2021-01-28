@@ -13,9 +13,9 @@ export default function Home() {
         <h1 className={styles.title}>
           YES! 🚀
         </h1>
-    <p>You like the stock. Why wouldn't you?</p>
+    <p class="description">You like the stock. Why wouldn't you?</p>
     <br/>
-    <p><a href="https://shouldibuygme.com">Next Step</a></p>
+    <a href="https://shouldibuygme.com">Next Step</a><
       </main>
     <footer>The contents on this site are for informational and entertainment purposes only and does not constitute financial, accounting, or legal advice.</footer>
     </div>
