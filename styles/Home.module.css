@@ -121,28 +121,7 @@
   }
 }
 
-a {
-  outline: none;
+.description a {
+  color: #0070f3;
   text-decoration: none;
-  padding: 2px 1px 0;
-}
-
-/* unvisited link */
-a:link {
-  color: red;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: blue;
 }
