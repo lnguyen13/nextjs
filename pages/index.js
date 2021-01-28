@@ -14,8 +14,10 @@ export default function Home() {
           YES! 🚀
         </h1>
     <p>You like the stock. Why wouldn't you?</p>
-    <a href="https://shouldibuygme.com" class="btn btn-info" role="button">Next Step</a>
+    <br/>
+    <p><a href="https://shouldibuygme.com">Next Step</a></p>
       </main>
+    <footer>The contents on this site are for informational and entertainment purposes only and does not constitute financial, accounting, or legal advice.</footer>
     </div>
   )
 }
