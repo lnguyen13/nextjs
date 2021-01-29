@@ -11,8 +11,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
+          Should I Hold GME?
+        </h2>
+    <h2 className={styles.subtitle}>
           YES! 🚀
-        </h1>
+        </h2>
     <p className={styles.description}>You like the stock. Why wouldn't you? <br/> <a href="https://shouldibuygme.com">Next Step</a></p>
     
       </main>
